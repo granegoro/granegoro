@@ -27,6 +27,7 @@
 - ### 📫 Мои контакты: 
   - [Telegram: t.me/granegoro](https://t.me/granegoro)
   - [VK: vk.com/granegoro](https://vk.com/granegoro)
+  - [Stack Overflow](https://stackoverflow.com/users/20582956/granegoro?tab=profile)
 
 - ### 👇 Приглашаю ознакомиться с моим портфолио в закрепленных ниже репозиториях
 <!---
