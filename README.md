@@ -29,6 +29,7 @@
   - Telegram: t.me/granegoro
   - VK: vk.com/granegoro
 
+- 👇 Приглашаю ознакомиться с моим портфолио в закрепленных ниже репозиториях
 <!---
 granegoro/granegoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
