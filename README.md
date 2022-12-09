@@ -25,7 +25,8 @@
   -  заведение баг-репортов в [Jira](https://www.atlassian.com/ru/software/jira)
   -  ведение тестовой документации в [Confluence](https://www.atlassian.com/ru/software/confluence) и [Test IT](https://testit.software)  
 
-### 🌱 Один из моих ключчевых навыков - умение постоянно учиться. Я активно впитываю актуальные знания по свеой специализации и смежным направлениям. В наcтоящее время продолжаю осваивать язык Java, изучаю методологию BDD. - ### 🌱 В наcтоящее время продолжаю осваивать язык Java, изучаю методологию BDD. 
+### 🌱 Один из моих ключевых навыков - умение постоянно учиться. 
+Я активно впитываю актуальные знания по свеой специализации и смежным направлениям. В наcтоящее время продолжаю осваивать язык Java, изучаю методологию BDD.
 
 ### 🎓 Мои сертификаты и свидетельства:
 [![Header](https://img.shields.io/badge/-%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%20%D0%9F%D0%9E-blue)](https://drive.google.com/file/d/1qjglY2y8TQhIyE4NCH_hcy2rq_MsOlrT/view?usp=sharing)
@@ -36,14 +37,6 @@
 [![Header](https://img.shields.io/badge/-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0-blue)](https://drive.google.com/file/d/1kIfcPONjjh7cuXSSTksRqaOPHt3vt_Fq/view?usp=sharing)
 [![Header](https://img.shields.io/badge/-%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20SQL%20%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83%20%D1%81%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B9%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-blue)](https://drive.google.com/file/d/1p4FYVDcQlZGIPtfs8STbaeTQypoTgQ81/view?usp=sharing)
 [![Header](https://img.shields.io/badge/-Python--%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-blue)](https://drive.google.com/file/d/12MKtNdmv4n9Q6LtNklLYR379M9d-5Q9G/view?usp=sharing)
-
-- [Git - Система контроля версий](https://drive.google.com/file/d/1gPOsrYHR_5boI9-V2zqWCNFvTSOXnvLB/view?usp=sharing)
-- [Java для тестировщиков](https://drive.google.com/file/d/11lgDJETIEQDXNO5CZ0YSc2nOYRx4cFrE/view?usp=sharing)
-- [Автоматизированное тестирование](https://drive.google.com/file/d/1gSXd2uyrvz_w0q-mKlTRcrOSZ4rhX4sa/view?usp=sharing)
-- [Ручное тестирование веб-приложений](https://drive.google.com/file/d/1bQSdzSmTMlIC3YLncwL7f6UD9jOGV4Cl/view?usp=sharing)
-- [Основы верстки сайта](https://drive.google.com/file/d/1kIfcPONjjh7cuXSSTksRqaOPHt3vt_Fq/view?usp=sharing)
-- [Введение в SQL и работу с базой данных](https://drive.google.com/file/d/1p4FYVDcQlZGIPtfs8STbaeTQypoTgQ81/view?usp=sharing)
-- [Python-разработка для начинающих](https://drive.google.com/file/d/12MKtNdmv4n9Q6LtNklLYR379M9d-5Q9G/view?usp=sharing)
 
 ### 🎯 Мое стремление - углубиться в автоматизацию тестирования backend, моя цель - присоединиться к масштабному проекту с вызывающими задачами и интенсивным темпом работы
 
