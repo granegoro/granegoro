@@ -28,7 +28,7 @@
 ### 🌱 Один из моих ключевых навыков - умение постоянно учиться. 
 Я активно впитываю актуальные знания по свеой специализации и смежным направлениям. В наcтоящее время продолжаю осваивать язык Java, изучаю методологию BDD.
 
-### 🎓 Мои сертификаты и свидетельства:
+### 🎓 Мои сертификаты и свидетельства (все бейджи кликабельные):
 [![Header](https://img.shields.io/badge/-%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%20%D0%9F%D0%9E-blue)](https://drive.google.com/file/d/1qjglY2y8TQhIyE4NCH_hcy2rq_MsOlrT/view?usp=sharing)
 [![Header](https://img.shields.io/badge/-Git%20--%20%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9-blue)](https://drive.google.com/file/d/1gPOsrYHR_5boI9-V2zqWCNFvTSOXnvLB/view?usp=sharing)
 [![Header](https://img.shields.io/badge/-Java%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2-blue)](https://drive.google.com/file/d/1gPOsrYHR_5boI9-V2zqWCNFvTSOXnvLB/view?usp=sharing)
