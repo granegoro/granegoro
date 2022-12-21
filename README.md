@@ -37,8 +37,6 @@
 
 ### 🎯 Профиль в программе [VK Testers](https://vk.com/bugs?act=reporter&id=29202650) 
 
-### 📜 Резюме доступно [по ссылке](https://hh.ru/resume/9676fe61ff0b87d7f80039ed1f566264433770)
-
 ### 📫 Мои контакты: 
   - [Telegram: t.me/granegoro](https://t.me/granegoro)
   - [VK: vk.com/granegoro](https://vk.com/granegoro)
