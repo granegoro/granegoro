@@ -35,9 +35,7 @@
 [![Header](https://img.shields.io/badge/-%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20SQL%20%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83%20%D1%81%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B9%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-blue)](https://drive.google.com/file/d/1p4FYVDcQlZGIPtfs8STbaeTQypoTgQ81/view?usp=sharing)
 [![Header](https://img.shields.io/badge/-Python--%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-blue)](https://drive.google.com/file/d/12MKtNdmv4n9Q6LtNklLYR379M9d-5Q9G/view?usp=sharing)
 
-### 📜 Профиль в программе [VK Testers](https://vk.com/bugs?act=reporter&id=29202650) 
-
-### 🎯 Тест-сьюты доступны [по ссылке](https://docs.google.com/spreadsheets/d/1riTxqfiMPhn4H0CmyE5Yv3R1wct0mmjPeaLPSMBXaeA/edit?usp=sharing)
+### 🎯 Профиль в программе [VK Testers](https://vk.com/bugs?act=reporter&id=29202650) 
 
 ### 📜 Резюме доступно [по ссылке](https://hh.ru/resume/9676fe61ff0b87d7f80039ed1f566264433770)
 
