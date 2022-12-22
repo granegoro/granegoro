@@ -1,6 +1,6 @@
 ### 👋 Привет, меня зовут Егор Старшелюк
 
-### 👀 Я занимаюсь функциональным тестированием веб- и мобильных приложений
+### 👀 Я занимаюсь тестированием веб- и мобильных приложений
 
 ### Владею языками и инструментами:
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=?style=for-the-badge&logo=java)
@@ -35,14 +35,12 @@
 [![Header](https://img.shields.io/badge/-🎓%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20SQL%20%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83%20%D1%81%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B9%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-blue)](https://drive.google.com/file/d/1p4FYVDcQlZGIPtfs8STbaeTQypoTgQ81/view?usp=sharing)
 [![Header](https://img.shields.io/badge/-🎓Python--%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-blue)](https://drive.google.com/file/d/12MKtNdmv4n9Q6LtNklLYR379M9d-5Q9G/view?usp=sharing)
 
-### 🎯 Профиль в программе [VK Testers](https://vk.com/bugs?act=reporter&id=29202650) 
-
 ### 📫 Мои контакты: 
   - [Telegram: t.me/granegoro](https://t.me/granegoro)
   - [VK: vk.com/granegoro](https://vk.com/granegoro)
   - [Stack Overflow](https://stackoverflow.com/users/20582956/granegoro?tab=profile)
 
-### 👇 Приглашаю ознакомиться с моим портфолио в закрепленных ниже репозиториях
+### 👇 Портфолио проектов доступно в закрепленных ниже репозиториях
 <!---
 granegoro/granegoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
